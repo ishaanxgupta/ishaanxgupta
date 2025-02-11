@@ -8,3 +8,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-gupta-972a23251/) 
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishaanxgupta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ishaanxgupta&&style=flat-square" align="center" />
+</div>  
