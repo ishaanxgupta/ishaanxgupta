@@ -1,4 +1,5 @@
 # 💫 About Me:
+**Open Source Contributor, ML enthusisast, Competitive Programming, Full stack Developer**
 
 🔭 I’m currently working on [CLG Archive](https://clg-archive.vercel.app/)  
 👯 I’m looking to collaborate on open-source projects  
