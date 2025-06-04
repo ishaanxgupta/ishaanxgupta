@@ -1,9 +1,9 @@
 # 💫 About Me:
-**GSOC'25 Contributor @Alaska, Open Source Contributor, ML enthusisast, Competitive Programming, Full stack Developer**
+**GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusisast, Competitive Programming, Full stack Developer**
 
 🔭 I’m currently working on [Codify](https://clg-archive.vercel.app/)  
 👯 I’m looking to collaborate on open-source projects  
-🌱 I’m currently learning advanced backend and DSA  
+🌱 I’m currently learning advanced backend, DSA and Agentic Frameworks  
  
 
 ## 🌐 Socials:
