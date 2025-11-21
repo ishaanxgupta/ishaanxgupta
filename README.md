@@ -1,5 +1,5 @@
 # 💫 About Me:
-**GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusiast, Competitive Programming, Full stack Developer**
+**Sih'25 Finalist, Open Source Mentor @Newton School of Technology, GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusiast, Competitive Programming, Full stack Developer**
 
 🔭 I’m currently working on [Codify](https://clg-archive.vercel.app/)  
 👯 I’m looking to collaborate on open-source projects  
