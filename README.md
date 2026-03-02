@@ -1,7 +1,7 @@
 # 💫 About Me:
-**Sih'25 Finalist, Open Source Mentor @Newton School of Technology, GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusiast, Competitive Programming, Full stack Developer**
+**Open Source Mentor @Newton School of Technology, GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusiast, Competitive Programming**
 
-🔭 I’m currently working on [Codify](https://clg-archive.vercel.app/)  
+🔭 I’m currently working on Xmem - Agentic Multi-modal Architecture for AI agents 
 👯 I’m looking to collaborate on open-source projects  
 🌱 I’m currently learning advanced backend, DSA and Agentic Frameworks  
  
