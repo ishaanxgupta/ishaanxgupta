@@ -1,9 +1,7 @@
 # 💫 About Me:
-**Open Source Mentor @Newton School of Technology, GSOC'25 Mentee @Alaska, Open Source Contributor, ML enthusiast, Competitive Programming**
+**Building @supermemory, Open Source Mentor @NST, GSOC'25 @Alaska, Maintainer @Alaska, Contributor @Google Gemini CLI**
 
-🔭 I’m currently working on Xmem - Agentic Multi-modal Architecture for AI agents  
-🌱 I’m currently learning advanced backend, DSA and Agentic Frameworks  
- 
+**I’m currently working on Xmem: India's #1 Memory Layer for AI agents**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-gupta-972a23251/) 
