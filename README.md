@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Building @supermemory, Open Source Mentor @NST, GSOC'25 @Alaska, Maintainer @Alaska, Contributor @Google Gemini CLI**
+**Open Source Mentor @NST, GSOC'25 @Alaska, Maintainer @Alaska, Contributor @Google Gemini CLI**
 
 **I’m currently working on Xmem: India's #1 Memory Layer for AI agents**
 
